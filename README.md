@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋，I'm Travis-Lee</h1>
 
-<!--
-**Travis-Lee/Travis-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I am interested in deep learning, computer vision, 3D graphics, AI Inference and android development.
+- 📫  Contact me if you have any questions: lixiang.fr@hotmail.com, or my wechat ID `echo "bGVvbl9sZWVfZnIK" | base64 -d`.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Travis-Lee">
+    <img src="https://raw.githubusercontent.com/Travis-Lee/Travis-Lee/main/github-metrics.svg" alt="GitHub Metrics" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Travis-Lee">
+    <img src="https://img.shields.io/github/followers/Travis-Lee?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+🎯 热爱CV & AI | 欢迎交流！
+
